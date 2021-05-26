@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "956117604742",
+    "project_id": "skilldvor",
+    "storage_bucket": "skilldvor.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:956117604742:android:a9a18aa75eefb4ea0cb407",
+        "android_client_info": {
+          "package_name": "com.example.skilldvor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "956117604742-lvjnuudmfs5480q1or13onvkp6oi5i4p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.skilldvor",
+            "certificate_hash": "200a313c8ff70d923f58b5188f656da80fb02e92"
+          }
+        },
+        {
+          "client_id": "956117604742-115ng1gmkav8gfndv2mp9fj5q8jidbvd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbjT7eUI2kGZN-ym6fi46CdgFSoQXqeEE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "956117604742-115ng1gmkav8gfndv2mp9fj5q8jidbvd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
